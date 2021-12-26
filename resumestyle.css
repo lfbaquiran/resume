@@ -1,0 +1,82 @@
+#container {
+  width: 80%;
+  height: 1400px;
+  margin-left: 22%;
+  padding: 10px;
+    max-width: 1825px;
+    min-width: 1825px;
+}
+
+.column1{
+	float: left;
+	width: 20%;
+	height: 1400px;
+	background-color: #385484;
+	padding: 20px;
+	padding-top: 50px;
+}
+
+.column2{
+	float: left;
+	width: 50%;
+	padding: 20px;
+	height: 1400px;
+	background-color: #F2F3F4;
+	padding-bottom: 50px;
+}
+
+hr {
+	width:  85%;
+	align: center;
+}
+
+h1 {
+
+	font-family: "Copperplate", monospace;
+	color:  #335384;
+	font-size: 50px;
+}
+
+.column2 h2 {
+
+	font-family: "Courier New", monospace;
+	color: #5da7d1;
+}
+
+.column2 p, .column2 ul {
+	font-family: "Garamond", monospace;
+	color: #000000;
+}
+
+.main {
+	font-family: "Georgia", monospace;
+	color:  #444440;
+}
+
+.sub {
+	font-family:  "Garamond";
+	color:  #737373;
+}
+
+.column1 h2 {
+
+	font-family: "Courier New", monospace;
+	color: #F2F3F4;
+}
+
+.column1 p, .column1 ul {
+	font-family: "Garamond", monospace;
+	color: #F2F3F4;
+}
+
+.column1 h3 {
+
+	color: #F2F3F4;
+}
+
+span,a {
+	font-family: "Garamond", monospace;
+	color: #F2F3F4;
+	position: relative;
+	bottom: 15px;
+}
